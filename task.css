@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: left;
+}
+.photo{
+    width: 400px;
+    border-radius: 200px;
+    float: left;
+    margin: 0 100px 1200px 40px;
+   }
+.first{
+    margin-top: 90px;
+}
+
+table {
+    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+    width: 1000px; /* Ширина таблицы */
+    font-size: 20px;
+   }
+   th { 
+    background: rgb(214, 213, 209); /* Цвет фона ячейки */
+    text-align: left; /* Выравнивание по левому краю */
+   }
+   td {
+    background: #fff; /* Цвет фона ячеек */
+    text-align: center; /* Выравнивание по центру */
+   }
+   th, td {
+    border: 1px solid black; /* Параметры рамки */
+    padding: 4px; /* Поля вокруг текста */
+   }
+
+
+ul{
+    font-size: 20px;
+}
+.prog{
+ 
+    font-weight: bold;  /* жирность */
+    text-align: left;
+}
+.hobbi{
+    text-align: center; /* Выравнивание по центру */
+}
